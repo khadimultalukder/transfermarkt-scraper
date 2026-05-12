@@ -27,7 +27,7 @@ Built with **Playwright (async)** and designed to survive CloudFront's anti-bot 
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/transfermarkt-scraper.git
+git clone https://github.com/khadimultalukder/transfermarkt-scraper.git
 cd transfermarkt-scraper
 
 # 2. Install
